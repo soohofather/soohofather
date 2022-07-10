@@ -1,4 +1,4 @@
- ![slice](https://capsule-render.vercel.app/api?type=slice&color=0:2193b0,100:3f80fb&height=200&text=soohofather&fontColor=0c182f&fontAlign=70&rotate=13&fontAlignY=25&desc=who%20is%20a nice%20very man%20&descAlign=70.&descAlignY=44)
+ ![slice](https://capsule-render.vercel.app/api?type=slice&color=0:2193b0,100:3f80fb&height=200&text=soohofather&fontColor=0c182f&fontAlign=70&rotate=13&fontAlignY=25&desc=who%20is%20a%20very%20nice%20man%20&descAlign=70.&descAlignY=44)
 
 ## NOW LEARNING.....👇
 
